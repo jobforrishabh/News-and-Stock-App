@@ -1,2 +1,3 @@
 # News-and-Stock-App
-In this project newsapi and alphavantage API is being used
+In this app newsapi and alphavantage API is being used to find the news and stock details accordin to the desired date.
+Flask Framework is used to create this app.
